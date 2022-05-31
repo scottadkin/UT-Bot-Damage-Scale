@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=BotDamageScale.BotDamageScale,Class=Class,MetaClass=Engine.Mutator,Description="Scale Bot's Damage")
